@@ -1,0 +1,9 @@
+﻿  Program.cpp
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(64): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(107): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(108): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\e531\desktop\projekt2\tetris\tetris\program.cpp(123): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\E531\Desktop\projekt2\Tetris\Debug\Tetris.exe
